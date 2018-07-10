@@ -17,6 +17,6 @@ def add_colors
   array[0] = "red"
   array[1] = "light_red"
   array[2] = "light_yellow"
-  array[3]..push "green"
-  array[4]..push "blue"
+  array[3].push "green"
+  array[4].push "blue"
 end 
