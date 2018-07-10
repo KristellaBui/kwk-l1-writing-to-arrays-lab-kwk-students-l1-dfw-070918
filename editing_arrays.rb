@@ -13,6 +13,7 @@ def change_rainbow_colors
 end
 
 def add_colors
+  array = []
   array[0] = "red"
   array[1] = "light_red"
   array[2] = "light_yellow"
